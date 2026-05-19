@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Sumit Kumar Singh
 
-<!--
-**Sumitrajputt/sumitrajputt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionate Full Stack Developer & CSE Student  
+🚀 Currently learning Java, JavaScript, React.js, Node.js & DSA  
+🌱 Building real-world projects and improving problem-solving skills  
+🔥 Interested in Web Development, Open Source & Software Engineering  
+📚 3rd Year Computer Science Engineering Student  
+⚡ Love creating clean and responsive web applications  
+🎯 Goal: Become a successful Full Stack Developer  
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- Java
+- JavaScript
+- HTML5
+- CSS3
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- MySQL
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Current Focus
+- Data Structures & Algorithms
+- Full Stack Development
+- Open Source Contribution
+- Building Portfolio Projects
+
+## 📫 Connect With Me
+- Email: sumitkumarsingh8677@gmail.com
+
+⭐ “Code. Learn. Build. Repeat.”
