@@ -32,15 +32,6 @@
 </div>
 
 ---
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-
-</div>
-
----
-
 <div align="center">
 
 ## 📈 GitHub Activity Graph
@@ -50,7 +41,6 @@
 </div>
 
 ---
-
 <div align="center">
 
 
@@ -60,10 +50,6 @@
 
 </div>
 
----
-
-<div align="center">
-
 ## ⚡ GitHub Streak
 
 <img src="https://streak-stats.demolab.com?user=sumitrajputt&theme=github-dark-blue&hide_border=true"/>
@@ -71,29 +57,86 @@
 </div>
 
 ---
-
 <div align="center">
-
 ---
-
+  
 <div align="center">
 
 🌌 Ｒｅｐｏｓｉｔｏｒｙ Ｇａｌａｘｙ
 
-<a href="https://github.com/sumitrajputt?tab=repositories">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumitrajputt&theme=github_dark" />
+<div align="center">
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 📦 Repo 1
+
+<a href="https://github.com/sumitrajputt/My-Portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sumitrajputt&repo=My-Portfolio&theme=github_dark&hide_border=true"/>
 </a>
 
-<br><br>
-
-<a href="https://github.com/sumitrajputt?tab=repositories">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumitrajputt&theme=github_dark" />
-  <div align="center">
-
-<a href="https://github.com/sumitrajputt?tab=repositories">
-  <img src="https://img.shields.io/badge/View%20All%20Repositories-000?style=for-the-badge&logo=github&logoColor=white"/>
+<p align="center">
+<a href="https://github.com/sumitrajputt/My-Portfolio">
+<img src="https://img.shields.io/badge/View%20Repository-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a href="https://my-portfolio-demo.vercel.app">
+<img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+<td width="50%">
+
+### 📦 Repo 2
+
+<a href="https://github.com/sumitrajputt/JAVA-SCRIPT">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sumitrajputt&repo=JAVA-SCRIPT&theme=github_dark&hide_border=true"/>
+</a>
+
+<p align="center">
+<a href="https://github.com/sumitrajputt/JAVA-SCRIPT">
+<img src="https://img.shields.io/badge/View%20Repository-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📦 Repo 3
+
+<a href="https://github.com/sumitrajputt/DSA-in-JAVA">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sumitrajputt&repo=DSA-in-JAVA&theme=github_dark&hide_border=true"/>
+</a>
+
+<p align="center">
+<a href="https://github.com/sumitrajputt/DSA-in-JAVA">
+<img src="https://img.shields.io/badge/View%20Repository-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+<td width="50%">
+
+### 🚀 More Projects
+
+<a href="https://github.com/sumitrajputt?tab=repositories">
+<img src="https://img.shields.io/badge/View%20All%20Repositories-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
