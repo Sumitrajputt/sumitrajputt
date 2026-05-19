@@ -1,6 +1,6 @@
 <div align="center">
 
-#  नमस्ते, मैं 𝗦𝘂𝗺𝗶𝘁 𝗥𝗮𝗷𝗽𝘂𝘁
+#  नमस्ते, मैं 𝗦𝘂𝗺𝗶𝘁 𝗥𝗮𝗷𝗽ut
 
 ### Full Stack Developer 🚀
 
@@ -12,20 +12,31 @@
 
 <div align="center">
 
-###  Tech Stack
+##  Tech Stack
 
-<marquee behavior="scroll" direction="left" scrollamount="10">
+<marquee direction="left" scrollamount="12">
 
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=java" />
-<img src="https://skillicons.dev/icons?i=js" />
-<img src="https://skillicons.dev/icons?i=react" />
-<img src="https://skillicons.dev/icons?i=mongodb" />
-<img src="https://skillicons.dev/icons?i=mysql" />
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
-<img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://skillicons.dev/icons?i=html&theme=dark" />
+<img src="https://skillicons.dev/icons?i=css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" />
+
+<img src="https://skillicons.dev/icons?i=html&theme=dark" />
+<img src="https://skillicons.dev/icons?i=css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" />
 
 </marquee>
 
@@ -35,7 +46,15 @@
 
 <div align="center">
 
-### 📈 GitHub Activity Graph
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 GitHub Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumitrajputt&theme=github-compact&hide_border=true"/>
 
@@ -45,11 +64,11 @@
 
 <div align="center">
 
-### 🔥 GitHub Stats
+## 🔥 GitHub Stats
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=sumitrajputt&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=sumitrajputt&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitrajputt&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitrajputt&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
@@ -57,7 +76,7 @@
 
 <div align="center">
 
-### ⚡ GitHub Streak
+## ⚡ GitHub Streak
 
 <img src="https://streak-stats.demolab.com?user=sumitrajputt&theme=github-dark-blue&hide_border=true"/>
 
@@ -67,25 +86,34 @@
 
 <div align="center">
 
-### 🏆 GitHub Trophies
+## 📦 My Repositories
 
-<img src="https://github-profile-trophy.vercel.app/?username=sumitrajputt&theme=algolia&no-frame=true&row=1&column=6"/>
+<a href="https://github.com/sumitrajputt/My-Portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sumitrajputt&repo=My-Portfolio&theme=github_dark&hide_border=true"/>
+</a>
+
+<a href="https://github.com/sumitrajputt/JAVA-SCRIPT">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sumitrajputt&repo=JAVA-SCRIPT&theme=github_dark&hide_border=true"/>
+</a>
+
+<a href="https://github.com/sumitrajputt/DSA-in-JAVA">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sumitrajputt&repo=DSA-in-JAVA&theme=github_dark&hide_border=true"/>
+</a>
 
 </div>
 
 ---
 
 <div align="center">
-
-### 👀 Profile Views
-
-<img src="https://komarev.com/ghpvc/?username=sumitrajputt&label=Profile%20Views&color=0e75b6&style=flat" />
-
-</div>
-
 ---
 
 <div align="center">
+
+## 👀 Profile Views
+
+<img src="https://komarev.com/ghpvc/?username=sumitrajputt&label=Profile%20Views&color=58A6FF&style=for-the-badge" />
+
+</div>
 
 ### 🚀 Building • Learning • Growing
 
