@@ -8,8 +8,6 @@
 
 </div>
 
----
-
 <div align="center">
 
 ##  Tech Stack
@@ -40,7 +38,6 @@
 
 </div>
 
----
 <div align="center">
 
 
@@ -56,53 +53,33 @@
 
 </div>
 
----
+
 <div align="center">
----
+
   
 <div align="center">
 
 🌌 Ｒｅｐｏｓｉｔｏｒｙ Ｇａｌａｘｙ
 
-<div align="center">
-
-</div>
-
 <table>
 <tr>
 <td width="50%">
 
-### 📦 Repo 1
+### Repo 1 — My-Portfolio
 
 <a href="https://github.com/sumitrajputt/My-Portfolio">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=sumitrajputt&repo=My-Portfolio&theme=github_dark&hide_border=true"/>
 </a>
 
-<p align="center">
-<a href="https://github.com/sumitrajputt/My-Portfolio">
-<img src="https://img.shields.io/badge/View%20Repository-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://my-portfolio-demo.vercel.app">
-<img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-</p>
-
 </td>
 
 <td width="50%">
 
-### 📦 Repo 2
+### Repo 2 — JAVA-SCRIPT
 
 <a href="https://github.com/sumitrajputt/JAVA-SCRIPT">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=sumitrajputt&repo=JAVA-SCRIPT&theme=github_dark&hide_border=true"/>
 </a>
-
-<p align="center">
-<a href="https://github.com/sumitrajputt/JAVA-SCRIPT">
-<img src="https://img.shields.io/badge/View%20Repository-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
 
 </td>
 
@@ -111,45 +88,26 @@
 <tr>
 <td width="50%">
 
-### 📦 Repo 3
+### Repo 3 — DSA-in-JAVA
 
 <a href="https://github.com/sumitrajputt/DSA-in-JAVA">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=sumitrajputt&repo=DSA-in-JAVA&theme=github_dark&hide_border=true"/>
 </a>
 
-<p align="center">
-<a href="https://github.com/sumitrajputt/DSA-in-JAVA">
-<img src="https://img.shields.io/badge/View%20Repository-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
 </td>
 
 <td width="50%">
 
-### 🚀 More Projects
+### More Repositories
 
 <a href="https://github.com/sumitrajputt?tab=repositories">
-<img src="https://img.shields.io/badge/View%20All%20Repositories-000?style=for-the-badge&logo=github&logoColor=white"/>
+View All Projects
 </a>
 
 </td>
 
 </tr>
 </table>
-
----
-
-<div align="center">
----
-
-<div align="center">
-
-## 💎 Welcome Visitors
-
-<img src="https://komarev.com/ghpvc/?username=sumitrajputt&label=Profile%20Views&color=58A6FF&style=for-the-badge" />
-
-</div>
 
 ### 🚀 Building • Learning • Growing
 
