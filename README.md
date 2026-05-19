@@ -1,6 +1,6 @@
 <div align="center">
 
-#   नमस्ते, मैं 𝗦𝘂𝗺𝗶𝘁 𝗥𝗮𝗷𝗽𝘂t
+#  नमस्ते, मैं 𝗦𝘂𝗺𝗶𝘁 𝗥𝗮𝗷𝗽𝘂𝘁
 
 ### Full Stack Developer 🚀
 
@@ -12,23 +12,30 @@
 
 <div align="center">
 
-### ⚒️ Tech Stack
+###  Tech Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,java,js,react,mongodb,mysql,git,github,vscode&theme=dark" />
+<marquee behavior="scroll" direction="left" scrollamount="10">
 
-</div>
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=js" />
+<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=vscode" />
 
-<br>
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</marquee>
 
 </div>
 
 ---
 
 <div align="center">
+
+### 📈 GitHub Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumitrajputt&theme=github-compact&hide_border=true"/>
 
@@ -38,9 +45,41 @@
 
 <div align="center">
 
+### 🔥 GitHub Stats
+
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sumitrajputt&show_icons=true&theme=github_dark&hide_border=true"/>
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitrajputt&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ GitHub Streak
+
+<img src="https://streak-stats.demolab.com?user=sumitrajputt&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=sumitrajputt&theme=algolia&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 👀 Profile Views
+
+<img src="https://komarev.com/ghpvc/?username=sumitrajputt&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
