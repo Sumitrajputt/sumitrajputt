@@ -1,6 +1,6 @@
 <div align="center">
 
-#  नमस्ते, मैं 𝗦𝘂𝗺𝗶𝘁 𝗥𝗮𝗷𝗽ut
+# Hi I  𝗦𝘂𝗺𝗶𝘁 𝗥𝗮𝗷𝗽ut
 
 ### Full Stack Developer 💻 
 
