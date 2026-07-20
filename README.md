@@ -6,17 +6,11 @@
 </div>
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
 <br/>
-<!-- ============================================== -->
-<!--                TERMINAL PANEL                  -->
-<!-- ============================================== -->
- 
+
 <table width="100%">
 <tr>
 <td width="45%" valign="top">
 ```
-╔══════════════════════════════════╗
-║   sumit@dev-terminal:~$ ./portrait ║
-╚══════════════════════════════════╝
  
                             .:=-::...                           
                       .:+**##%%%%%%%%*-.                        
