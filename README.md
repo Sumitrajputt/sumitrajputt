@@ -1,117 +1,70 @@
 <div align="center">
 
-# Hi I  𝗦𝘂𝗺𝗶𝘁 𝗥𝗮𝗷𝗽ut
-
-### Full Stack Developer 💻 
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&color=58A6FF&center=true&vCenter=true&width=600&lines=Java+Developer;React+Enthusiast;MongoDB+%7C+MySQL;Prompt+Engineering+" />
-
-</div>
-
-<div align="center">
-
-##  Tech Stack
-
-<marquee direction="left" scrollamount="12">
-
-<img src="https://skillicons.dev/icons?i=html&theme=dark" />
-<img src="https://skillicons.dev/icons?i=css&theme=dark" />
-<img src="https://skillicons.dev/icons?i=java&theme=dark" />
-<img src="https://skillicons.dev/icons?i=js&theme=dark" />
-<img src="https://skillicons.dev/icons?i=react&theme=dark" />
-<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" />
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
-<img src="https://skillicons.dev/icons?i=git&theme=dark" />
-<img src="https://skillicons.dev/icons?i=github&theme=dark" />
-<img src="https://skillicons.dev/icons?i=vscode&theme=dark" />
-
-</marquee>
+```
+┌──────────────────────────────────────────────┐
+│  YourUsername@Neural-Grid                     │
+├──────────────────────────────────────────────┤
+│  Subject      : Your Full Name                │
+│  Role         : Your Role (e.g. AI Engineer)   │
+│  Origin       : Your City, Country             │
+│  Status       : Building • Learning • Shipping │
+│  ToolChain    : VS Code, Git, Postman, Colab   │
+├──────────────────────────────────────────────┤
+│  Neural.Core     : Python, JavaScript, C       │
+│  Neural.AI       : LangChain, LangGraph, RAG   │
+│  Neural.Frontend : HTML/CSS, React, Streamlit  │
+│  Neural.Backend  : Flask, FastAPI, MongoDB     │
+│  Neural.Stack    : Agentic AI, LLMs, Prompting │
+├──────────────────────────────────────────────┤
+│  Contact                                       │
+│  Grid.Mail       : you@example.com             │
+│  Grid.Portfolio  : yourportfolio.vercel.app    │
+│  Grid.LinkedIn   : your-linkedin-handle        │
+│  Grid.GitHub     : YourUsername                │
+└──────────────────────────────────────────────┘
+```
 
 </div>
 
 ---
+
+### 📊 GitHub Stats
+
 <div align="center">
 
-## 📈 GitHub Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumitrajputt&theme=github-compact&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=dark&hide_border=true" width="45%" />
 
 </div>
 
 <div align="center">
-
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=sumitrajputt&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitrajputt&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-----
-
-## ⚡ GitHub Streak
-
-<img src="https://streak-stats.demolab.com?user=sumitrajputt&theme=github-dark-blue&hide_border=true"/>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=dark&hide_border=true" width="60%" />
 </div>
 
+---
+
+### 🧠 Currently Exploring
+- Building agentic AI workflows
+- Contributing to open-source RAG tools
+- Sharpening system design fundamentals
+
+### 🛠 Tech Toolbox
 
 <div align="center">
 
-  
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+
+</div>
+
+---
+
 <div align="center">
-  
----------
 
-🌌 Ｒｅｐｏｓｉｔｏｒｙ Ｇａｌａｘｙ
-
-<table>
-<tr>
-<td width="50%">
-
-### Repo 1 — My-Portfolio
-
-<a href="https://github.com/sumitrajputt/My-Portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sumitrajputt&repo=My-Portfolio&theme=github_dark&hide_border=true"/>
-</a>
-
-</td>
-
-<td width="50%">
-
-### Repo 2 — JAVA-SCRIPT
-
-<a href="https://github.com/sumitrajputt/JAVA-SCRIPT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sumitrajputt&repo=JAVA-SCRIPT&theme=github_dark&hide_border=true"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-<td width="50%">
-
-### Repo 3 — DSA-in-JAVA
-
-<a href="https://github.com/sumitrajputt/DSA-in-JAVA">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sumitrajputt&repo=DSA-in-JAVA&theme=github_dark&hide_border=true"/>
-</a>
-
-</td>
-
-<td width="50%">
-
-### More Repositories
-
-<a href="https://github.com/sumitrajputt?tab=repositories">
-View All Projects
-</a>
-
-</td>
-
-</tr>
-</table>
-
-### 🚀 Building • Learning • Growing
+**"Exploration that never ends."**
 
 </div>
