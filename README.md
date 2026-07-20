@@ -1,16 +1,3 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:00CC66,100:00FF88&height=180&section=header&text=SUMIT%20KUMAR%20SINGH&fontColor=00FF88&fontSize=42&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Building%20Scalable%20Web%20Applications&descAlignY=58&descSize=16&descColor=EAEAEA" width="100%"/>
-<a href="https://github.com/Sumitrajputt">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=900&color=00FF88&center=true&vCenter=true&width=650&lines=root%40sumit%3A~%24+whoami;>+Full+Stack+Developer;>+React+%7C+Node.js+%7C+MongoDB;>+Building+scalable+full-stack+apps;>+Status%3A+Compiling+dreams+into+code..." alt="Typing SVG" />
-</a>
-</div>
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
-<br/>
-
-<table width="100%">
-<tr>
-<td width="45%" valign="top">
-```
  
                             .:=-::...                           
                       .:+**##%%%%%%%%*-.                        
@@ -38,11 +25,7 @@
              :=*#%%%%%#.  :--:--------=. :%%%%%%#*+-:           
         .-+*#%%%%%%%%%%-   .---------=:  -%%%%%%%%%%%#*+-.      
     :=*#%%%%%%%%%%%%%%%+    .:-------... =%%%%%%%%%%%%%%%%#*=:  
-</td>
-</tr>
-</table>
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
-<!-- ============================================== -->
+
 <!--                  TECH STACK                     -->
 <!-- ============================================== -->
  
@@ -100,75 +83,12 @@
  
 <img src="https://github-profile-trophy.vercel.app/?username=Sumitrajputt&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"/>
 </div>
-<!-- ============================================== -->
-<!--              FEATURED PROJECTS                  -->
-<!-- ============================================== -->
- 
-<h2 align="center">🗂️ Featured Projects</h2>
- 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-### 🍽️ Restaurant Management System
-Full-stack ordering &amp; billing platform with real-time table management, role-based staff access, and analytics dashboard.
- 
-`React` `Node.js` `Express` `MongoDB`
- 
-<a href="#"><img src="https://img.shields.io/badge/Live_Demo-00FF88?style=flat-square&logoColor=050505"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Repository-050505?style=flat-square&logo=github&logoColor=00FF88"/></a>
- 
----
- 
-### ⚡ AI Campus Energy Platform
-Smart energy monitoring dashboard for campus infrastructure using predictive analytics to reduce consumption.
- 
-`Next.js` `Python` `MySQL` `REST API`
- 
-<a href="#"><img src="https://img.shields.io/badge/Live_Demo-00FF88?style=flat-square&logoColor=050505"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Repository-050505?style=flat-square&logo=github&logoColor=00FF88"/></a>
- 
----
- 
-### 🌐 Portfolio Website
-Personal developer portfolio with terminal-inspired UI, smooth animations, and dark-mode-first design.
- 
-`React` `Tailwind CSS` `Framer Motion`
- 
-<a href="#"><img src="https://img.shields.io/badge/Live_Demo-00FF88?style=flat-square&logoColor=050505"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Repository-050505?style=flat-square&logo=github&logoColor=00FF88"/></a>
- 
-</td>
-<td width="50%" valign="top">
+
 ### ✅ Task Manager
 Kanban-style productivity app with drag-and-drop boards, deadline reminders, and team collaboration.
  
-`React` `Node.js` `MongoDB` `Socket.io`
- 
-<a href="#"><img src="https://img.shields.io/badge/Live_Demo-00FF88?style=flat-square&logoColor=050505"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Repository-050505?style=flat-square&logo=github&logoColor=00FF88"/></a>
- 
----
- 
-### ⛅ Weather App
-Real-time weather forecasting app with geolocation, hourly breakdowns, and interactive UI.
- 
-`JavaScript` `REST API` `CSS3`
- 
-<a href="#"><img src="https://img.shields.io/badge/Live_Demo-00FF88?style=flat-square&logoColor=050505"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Repository-050505?style=flat-square&logo=github&logoColor=00FF88"/></a>
- 
----
- 
-### 💡 More coming soon...
-```bash
-guest@sumit-portfolio:~$ git log --oneline -1
-> building the next big thing...
-```
- 
-</td>
-</tr>
-</table>
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
+
+hemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
 <!-- ============================================== -->
 <!--             CONTRIBUTION SNAKE                  -->
 <!-- ============================================== -->
