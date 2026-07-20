@@ -1,7 +1,4 @@
 &lt;div align="center"&gt;
-
-# karthikithural@grid
-
 &lt;img src="img/profile.png" alt="Profile Card" width="100%" /&gt;
 
 &lt;/div&gt;
