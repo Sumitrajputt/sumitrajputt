@@ -1,51 +1,40 @@
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+from pathlib import Path
+import pypandoc
 
-            👋 Hi I'm Sumit Kumar Singh
+md = r'''# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Sumit+Kumar+Singh;Full+Stack+Developer;AI+Enthusiast;Building+Real-World+Projects" alt="Typing SVG" />
 
-     🚀 Full Stack Developer | Java | MERN
+<div align="center">
 
-        Animated Typing Effect
+# 🤖 AI Developer Profile
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<img src="https://img.shields.io/badge/AI-Powered-00F5FF?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open%20to-Internships-8A2BE2?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00F5FF"/>
 
-             👤 Avatar
+</div>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<p align="center">
+Replace this image with your custom AI avatar.
+</p>
 
-About Me
+<p align="center">
+<img width="240" src="https://avatars.githubusercontent.com/u/9919?s=200&v=4">
+</p>
 
-• 💻 Computer Science Student
-• 🎓 Parul University
-• 🚀 Full Stack Developer
-• 🌱 Currently Learning Next.js
-• ⚡ 200+ LeetCode Problems
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:7B2FF7&height=120&section=header"/>
 
-Tech Stack
+## 🧠 AI.initialize()
 
-Java React Node Express MongoDB
-Next.js Tailwind Git GitHub
+```java
+class Developer {
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    String name = "Sumit Kumar Singh";
+    String role = "Full Stack Developer";
+    String university = "Parul University";
+    String language = "Java";
+    String focus = "AI + MERN";
+    boolean openToWork = true;
 
-GitHub Stats
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-GitHub Streak
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-LeetCode Stats
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Connect With Me
-
-LinkedIn
-Portfolio
-Email
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+}
